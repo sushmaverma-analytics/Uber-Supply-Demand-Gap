@@ -1,4 +1,4 @@
-# Ube Supply Demand Gap Analysis
+# Uber Supply Demand Gap Analysis
 Uber Supply Demand Gap Analysis using Python, EDA and Excel  Dashboard
 
 ## Project Overview
